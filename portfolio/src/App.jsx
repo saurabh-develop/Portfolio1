@@ -10,7 +10,7 @@ import CursorFollower from "./components/CursorFollower";
 
 function App() {
   return (
-    <div className="scroll-smooth scroll-pt-20 bg-white text-black dark:bg-gray-900 dark:text-white transition-colors duration-300">
+    <div className="scroll-smooth scroll-pt-20 bg-white text-black dark:bg-gray-900 dark:text-white transition-colors duration-300 ">
       <Navbar />
       <CursorFollower />
       <TracingBeam>

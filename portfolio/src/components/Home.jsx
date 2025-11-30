@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <div
-      className="flex flex-col md:flex-row items-center justify-center min-h-screen px-10 py-12 gap-30"
+      className="flex flex-col md:flex-row items-center justify-center min-h-screen px-10 py-12 pt-20 gap-30"
       id="home"
     >
       <div className="md:w-1/2 w-full text-center md:text-left">
@@ -49,5 +49,5 @@ const Home = () => {
     </div>
   );
 };
- 
+
 export default Home;

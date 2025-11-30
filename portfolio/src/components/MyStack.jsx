@@ -20,7 +20,7 @@ const stack = [
 const TechStack = () => {
   return (
     <section
-      className="w-full text-white flex flex-col justify-center items-center px-4 mb-40 scroll-mt-28 mb-30"
+      className="w-full text-white flex flex-col justify-center items-center px-4 scroll-mt-28 mb-30"
       id="stack"
     >
       {/* Header */}

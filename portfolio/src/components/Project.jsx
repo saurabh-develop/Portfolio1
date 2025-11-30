@@ -22,10 +22,10 @@ const projects = [
     link: "https://github.com/saurabh-develop/Case-Files",
   },
   {
-    heading: "Calculator",
-    description: "A calculator app with basic and scientific functions.",
-    image: "Calculator.png",
-    link: "https://github.com/saurabh-develop/Calculator",
+    heading: "Think Flow",
+    description: "A DSA Visualisation App where user can understand concept easily.",
+    image: "firstPage.png",
+    link: "https://github.com/saurabh-develop/ThinkFlow",
   },
 ];
 
